@@ -1,7 +1,7 @@
 # AngularDynamicallyCreateComponent Angular动态创建组件
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.<br>
-该项目给予[Angular CLI](https://github.com/angular/angular-cli) 7.1.4。
+该项目基于[Angular CLI](https://github.com/angular/angular-cli) 7.1.4。
 
 ## Install dependencies 安装依赖
 
